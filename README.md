@@ -1,9 +1,21 @@
 # Hey there 👋  
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-link)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](your-medium-link)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](your-instagram-link)
+<p align="left">
+  <a href="https://www.linkedin.com/in/g-kamesh-06b272281" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_kameshh__" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="24" height="24"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:g.kamesh743243@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="24" height="24"/>
+  </a>
+</p>
+
+
+
 
 Hi, I'm **G. Kamesh**, a Data Scientist from Hyderabad, India. I have experience in Data Science, Machine Learning, NLP, and Deep Learning. I enjoy solving real-world problems and contributing to open-source projects. 🚀  
 
@@ -24,4 +36,4 @@ Check out my portfolio: [My Portfolio](https://kamesh1410.github.io/My-Portfolio
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamesh1410&show_icons=true&theme=dark)
