@@ -37,3 +37,6 @@ Check out my portfolio: [My Portfolio](https://kamesh1410.github.io/My-Portfolio
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamesh1410&show_icons=true&theme=dark)
+
+
+![Data Science GIF](https://i.imgur.com/OzU94bJ.gif)
