@@ -26,7 +26,7 @@ Check out my portfolio: [My Portfolio](https://kamesh1410.github.io/My-Portfolio
 ## 📌 Talking about Personal Stuff:
 - 💻 I’m currently working on **AI Chatbots & Trading Bot Analysis**
 - 💬 Ask me anything, I’m happy to help!
-- 📄 [Resume](https://drive.google.com/file/d/1atO9viXDPpG4WUFph_YpViLgvuBD0-Op/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1XYDb587J5Nblr5syGlwHf0mKbGiEEvcq/view?usp=sharing)
 
 ## 🔧 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
